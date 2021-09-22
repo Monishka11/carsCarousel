@@ -1,4 +1,4 @@
-var index = 0;
+let index = 0;
 
 show_slide = (i) => {
   //increment/decrement slide index
